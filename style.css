@@ -1091,10 +1091,11 @@ transform: translateY(-8px);
 }
 
 .concept-lead {
-    font-size: 19px;
-  line-height: 1.9;
-  text-align: left;
-}
+    font-size: 18px;
+    line-height: 1.8;
+    letter-spacing: 0.02em;
+    text-align: left;
+  }
 
 
 .text-muted {
